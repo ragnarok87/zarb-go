@@ -5,7 +5,7 @@
 ------
 # Zarb
 
-*Zarb blockchain*
+*Zarb blockchain changes*
 
 ## Compiling the code
 
